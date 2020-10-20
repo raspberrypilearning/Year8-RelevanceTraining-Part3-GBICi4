@@ -1,11 +1,14 @@
-title: RelevanceTraining-Session2-GBICi4
-hero_image: images/banner.png
-description: RelevanceTraining-Session2-GBICi4 description
+title: "Session 2: KS1 Storytelling Training - Getting started"
+hero_image: images/introduction2.png
+description: Session 2 of training for teachers introduces the first part of the resources for KS1 Storytelling GBICi1b trial through a series of tasks
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-10-20"
+last_tested: "2020-09-08"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Accessing the Storytelling resources
+  - title: The resources
+  - title: Overview
+  - title: "Task 1: Technical set-up for trial"
+  - title: "Task 2: What is ScratchJr?"
+  - title: Lesson Plans and Presentation Slides
