@@ -2,7 +2,7 @@
 
 The first document that you need to read is the Units overview, which provides essential information relating to the 'Relevance' intervention, including details on preparing to deliver the sessions.
 
-You will see that each session is set out with a brief description and the learning objectives and success criteria for that lesson. The overview also includes links to the relevant Session Primers and related resources. 
+You will see that each session is set out with a brief description and the learning objectives and success criteria for that lesson. The overview also includes a link to each session folder as well as links to the related session resources. 
 
 You will note that some of the information in the Units overview, such as information about the surveys, has been covered elsewhere in the training sessions. The Units overview offers a useful place to go as a signpost and reminder of key considerations. The document includes information about the following:
 + Resources
