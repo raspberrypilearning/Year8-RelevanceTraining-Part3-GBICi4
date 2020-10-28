@@ -9,5 +9,5 @@ Make a note of anything that you need to clarify. You can use the feedback form 
 
 Click the green button (below right) to go to the next step in this session.
 
-You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_GBICi1b). 
+You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part2-GBICi4). 
 You can access the [menu for Sessions 1, 2, and 3 here](hhttps://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
