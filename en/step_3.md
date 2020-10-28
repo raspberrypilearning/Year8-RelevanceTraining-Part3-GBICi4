@@ -1,20 +1,19 @@
-## Overview
+## The Units overview
 
-The first document you need to read is the Units Overview which provides essential information relating to the teaching approach Storytelling trial, including details on preparing for the Units.
+The first document that you need to read is the Units overview, which provides essential information relating to the 'Relevance' intervention, including details on preparing to deliver the sessions.
 
-You can see that each lesson is set out with a brief description and the learning objectives and success criteria for that lesson. The overview also includes links to the relevant lesson plans and resources. 
+You will see that each session is set out with a brief description and the learning objectives and success criteria for that lesson. The overview also includes links to the relevant Session Primers and related resources. 
 
-You will note that some of the information in the Unit Overview, such as data collection, has been covered elsewhere in the training sessions. This document offers a useful place to go as a signpost and reminder of key considerations. The document includes:
-+ Introduction
+You will note that some of the information in the Units overview, such as information about the surveys, has been covered elsewhere in the training sessions. The Units overview offers a useful place to go as a signpost and reminder of key considerations. The document includes information about the following:
 + Resources
 + Subject knowledge
-+ ScratchJr app
++ App Lab 
 + Devices and live demonstration
-+ Survey
++ Surveys
 
-![Modelling Unit Overview](images/ks1storytelling-UnitOverview.gif)
+![Modelling Unit Overview](images/Relevance-UnitOverview.gif)
 
-Click the green button (below right) for the next step in this session.
+Click the green button (below right) to go to the next step in this session.
 
-If you need to go back to the list of contents for this session (Session 2), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_GBICi1b). 
-If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Session2-gbici4). 
+You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/Year8-RelevanceTraining-gbici4).
