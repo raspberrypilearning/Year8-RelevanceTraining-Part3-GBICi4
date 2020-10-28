@@ -6,13 +6,13 @@ In this session, you are going to focus on the lesson resources you will need fo
 
 The session introduces you to the [Relevance Resource portal](NEED LINK) where you can explore all the resources for Session 1 to 12. The webpage is the access portal for all the resources relating to the Relevance trial. Here you can follow links to Google Docs and Google Slides OR download the resources as Microsoft documents.
 
-![Modelling access webpage](images/Year8-Relevance-Webpage.png)
+![Modelling access webpage](images/Relevance-Webpage.png)
 
 Links to all of the resources can also be found in your [Project Guide](LINK NEEDED), [Unit Overview](LINK NEEDED) and also accessed via the [Google Drive](LINK NEEDED).
 
 The resources consist of one sub-folder (with the 12 sessions) and three documents. Feel free to download the resources or access them each time you need them from this webpage. You may wish to bookmark the link to the resources in the browser toolbar of the teacher’s tablet/iPad/computer for ease of reference. 
 
-![Modelling access webpage](images/Year8-Relevance-WebpageAccess.gif)
+![Modelling access webpage](images/Relevance-WebpageAccess.gif)
 
 The resources prepared for the trial period include twelve 1-hour lessons. You will implement the teaching approach within fully-resourced lessons: six weeks on Story-writing and six weeks on Digital Storytelling.
 
