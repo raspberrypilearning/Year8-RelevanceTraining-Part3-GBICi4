@@ -14,4 +14,4 @@ For all activities in these sessions, pupils will work independently as well as 
 Click the green button (below right) to go to the next step in this session.
 
 You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_GBICi1b). 
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/Year8-RelevanceTraining-gbici1b).
+You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
