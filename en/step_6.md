@@ -1,5 +1,5 @@
 ## Lesson plans and presentation slides
-Now that you have read the Units overview and undertaken Unit 1 – Lesson 1, you should explore the other 11 lessons in turn. Each lesson includes a lesson plan and presentation slides.
+Now that you have read the App Development Sceme of Work (SoW) and undertaken Session 6, you should explore the other App Lab focused sessions 7 to 12. Each session  includes a lesson plan and presentation slides.
 
 You should take time now within the course to:
 + Become familiar with the units as a whole
