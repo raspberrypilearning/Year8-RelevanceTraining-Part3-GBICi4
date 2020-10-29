@@ -1,20 +1,20 @@
 ## Part 3: Year 8 Relevance Training - Investigating App Lab
-Part 3 introduces you to the online Relevance App Lab resources. There are five tasks in this part. The second task focuses on completing a series of sessions that the pupils themselves undertake in App Lab.
+Part 3 introduces you to the remainder of the Relevance resources which focus on App Lab. There are five tasks in this part. In the second and third tasks you will focus on completing a series of sessions on App Lab that the pupils themselves undertake.
 
 ## Task 1: Technical setup for the trial
 
-Check that you are prepared for the trial. This step is the first in a series of tasks in order to ensure that the technical setup is arranged well in advance of delivering the lessons.
+Before you begin developing your skills in App Lab you need to check that you and your classroon are prepared for the trial. Task 1 aims to ensure that the technical setup is arranged well in advance of delivering the lessons as you may need to bring in expertise, seek permissions, or source additional hardware. 
 
-**Devices and live demonstrations**
-Ideally, all demonstrations of programming should be done live. Set up well in advance of delivering the lessons as you may need to bring in expertise, seek permissions, or source additional hardware. 
-
+**Devices**
 **App Lab** is an online tool which runs on desktop computers as well as tablets/iPad. Check that App Lab runs on each device which you are planning to use in the trial.
 
-You should consider the practicalities of demonstration when creating the seating plan. There are real benefits to live demonstration. In advance of the demonstrations, we recommend that you practise modifying and creating the programs in App Lab that are referenced in the sessions. However, if live demonstration is not practical, each session offers students a step-by-step guide as an alternative to live demonstration. 
+**Live demonstrations**
+Ideally, all demonstrations of programming should be done live. There are real learning benefits. If live demonstration is not practical, each session offers students a step-by-step guide as an alternative to live demonstration.
 
-For all activities in these sessions, pupils will work independently as well as sometimes in groups for discussion and idea development purposes. Organise pupils' seating in advance to allow for groups.
+**Seating plan**
+You will need to consider your live demonstrations when organising pupils' seating. You should also consider the practicalities of group discussions when creating the seating plan. For all activities in these sessions, pupils will work independently as well as sometimes get in to groups for discussion and idea development purposes.
 
 Click the green button (below right) to go to the next step.
 
-You can go back to the [list of contents for this part (Part 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
+You can go back to the [list of contents for this part (Part 3) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
 You can access the [menu for Part 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
