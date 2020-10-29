@@ -3,11 +3,11 @@ Now that you have set up App Lab logins for you and your students, you can famil
 
 --- task ---
 
-Open [Session 1](https://ncce.io/xBrv1w), which comprises of the teacher-facing 'Lesson Primer', 'Lesson Plan', 'Teacher Slides' and the 'App Lab Login Guide' (which you were introduced to in the previous task). The session folder also includes the student facing 'Student Checklist' and 'Getting Started with App Lab'. Through the session you will be introduced to the AppLab interface, including blocks. Familiarise yourself with the 'Lesson Primer' and 'Lesson Plan' first. Then, using the 'Teacher Slides' and 'Getting Started with App Lab' guide, take yourself through the session. 
+Open [Session 1](https://ncce.io/xBrv1w) and familiarise yourself with the 'Lesson Primer' and 'Lesson Plan' first. Then, using the 'Teacher Slides' and 'Getting Started with App Lab' guide, take yourself through the session. You will find in the session folder the 'App Lab Login Guide' which you were introduced to in the previous task. During the session you will be introduced to the AppLab interface, including some blocks.  
 
 --- /task ---
 
-Session 6 sets the scene for sessions 7 to 11. 
+Session 6 sets the scene for sessions 7 to 11 which introduce new blocks in order to develop your app further using graphics, sound and user interaction.
 
 --- task ---
 
