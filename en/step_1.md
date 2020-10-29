@@ -1,4 +1,4 @@
-## Session 2: KS1 Storytelling Training - Getting started
+## Part 2: KS1 Storytelling Training - Getting started
 Session 2 introduces you to the online Storytelling resources through links, video and tasks. There are two tasks in this session. The second task focuses on completing a lesson that the pupils themselves undertake.
 
 ## Accessing the Storytelling resources
