@@ -1,4 +1,4 @@
-## Task 5: User testing
+## Task 3: User testing
 Briefly explore [Session 12](http://ncce.io/AbMR3v) which focuses on sharing your prototype with as many users as possible. Watch the [Sharing your App Lab app](https://www.youtube.com/watch?v=EWWXjOI8MNE) video to find out how to share your app.
 
 Please share your app including your name and school to the Gender Balance in Computing research team at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). The projects will be used to promote the Relevance trial. We will seek your permission if we would like to use your project to promote the trial.
