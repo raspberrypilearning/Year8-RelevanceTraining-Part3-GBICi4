@@ -52,13 +52,13 @@ Make a note of anything that you need to clarify. You can use the feedback form 
 
 --- task ---
 
-In the next session, Session 3, you will develop an understanding of the correlation between App Lab and the idea development process in sessions 1 to 5.
+In the next part, Part 3, you will develop an understanding of the correlation between App Lab and the idea development process in sessions 1 to 5.
 
-You can access the [next session (Session 3) here](https://projects.raspberrypi.org/en/projects/Year8_RelevanceTraining_Session3_GBICi4).
+You can access the [next part (Part 3) here](https://projects.raspberrypi.org/en/projects/Year8_RelevanceTraining_Session3_GBICi4).
 
 --- /task ---
 
-You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part2-GBICi4). 
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
+You can go back to the [list of contents for this part (Part 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part2-GBICi4). 
+You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
 
 **Note: Please do not click the green 'What's next?' button (below right) as this link is not relevant to this training course.**
