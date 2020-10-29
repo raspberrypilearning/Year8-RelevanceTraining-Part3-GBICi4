@@ -2,13 +2,13 @@
 
 --- task ---
 
-Watch the [Sharing your App Lab app](https://www.youtube.com/watch?v=EWWXjOI8MNE) video to find out how easy it is to share your app.
+Watch the [Sharing your App Lab app](https://www.youtube.com/watch?v=EWWXjOI8MNE){:target="_blank"} video to find out how easy it is to share your app.
 
 --- /task ---
 
 --- task ---
 
-Briefly explore [Session 12](http://ncce.io/AbMR3v) which focuses on sharing your prototype with as many users as possible. You could complete page 2 of [Student Worksheets](https://ncce.io/wjuSbq) when carrying out your user testing.
+Briefly explore [Session 12](http://ncce.io/AbMR3v){:target="_blank"}  which focuses on sharing your prototype with as many users as possible. You may find it informative to complete page 2 of [Student Worksheets](https://ncce.io/wjuSbq){:target="_blank"} when carrying out your user testing.
 
 --- /task ---
 
