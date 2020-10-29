@@ -1,5 +1,5 @@
-## Part 2: KS1 Storytelling Training - Getting started
-Session 2 introduces you to the online Relevance resources through links, video and tasks. There are two tasks in this session. The second task focuses on completing a lesson that the pupils themselves undertake.
+## Part 2: Year 8 Relevance Training - Getting started
+Part 2 introduces you to the online Relevance resources through links, video and tasks. There are two tasks in this session. The second task focuses on completing a lesson that the pupils themselves undertake.
 
 ## Accessing the Relevance resources
 In this session, you are going to focus on the lesson resources you will need for the Relevance trial. You will have an opportunity to explore all the resources for yourself, try them out and think about how to implement the lessons in your own classroom.
