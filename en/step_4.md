@@ -1,3 +1,6 @@
+## Part 3: Year 8 Relevance Training - Investigating App Lab
+Part 3 introduces you to the online Relevance App Lab resources. There are five tasks in this part. The second task focuses on completing a series of sessions that the pupils themselves undertake in App Lab.
+
 ## Task 1: Technical setup for the trial
 
 Check that you are prepared for the trial. This step is the first in a series of tasks in order to ensure that the technical setup is arranged well in advance of delivering the lessons.
