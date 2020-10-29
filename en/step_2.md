@@ -11,7 +11,7 @@ Session 6 sets the scene for sessions 7 to 11.
 
 --- task ---
 
-Now practise modifying and developing your program in App Lab using sessions 7 to 11 as a reference. This exploration will take time. Leave yourself plenty of development time to realise your app ideas into a working app.
+Now practise modifying and developing your program in App Lab using [sessions 7 to 11](https://ncce.io/GLAm98) as a reference. Leave yourself plenty of exploration and development time to realise your app ideas into a working app.
 
 --- /task ---
 
