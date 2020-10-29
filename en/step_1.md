@@ -14,7 +14,7 @@ You should consider the practicalities of demonstration when creating the seatin
 
 For all activities in these sessions, pupils will work independently as well as sometimes in groups for discussion and idea development purposes. Organise pupils' seating in advance to allow for groups.
 
-Click the green button (below right) to go to the next step in this session.
+Click the green button (below right) to go to the next step.
 
-You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part2-GBICi4). 
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
+You can go back to the [list of contents for this part (Part 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
+You can access the [menu for Part 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
