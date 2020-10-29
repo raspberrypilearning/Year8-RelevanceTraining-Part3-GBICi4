@@ -13,6 +13,8 @@ Session 6 sets the scene for sessions 7 to 11 which introduce new blocks in orde
 
 Now practise modifying and developing your program in App Lab using [sessions 7 to 11](https://ncce.io/GLAm98) as a reference. Leave yourself plenty of exploration and development time to realise your app ideas into a working app.
 
+Continuing to program in App Lab will help you develop your subject-knowledge as well as your confidence in delivering live demonstrations in class. You will also have experienced the sessions from the pupils' perspective which will help when giving support in the sessions. 
+
 --- /task ---
 
 --- task ---
