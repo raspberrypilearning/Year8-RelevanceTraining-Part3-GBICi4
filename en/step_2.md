@@ -1,4 +1,4 @@
-## Task 2: Program in App Lab?
+## Task 2: Program in App Lab
 Now that you have set up App Lab logins for you and your students, you can familiarise yourself with Session 6, an introductory session on App Lab. It is the same session that the pupils themselves will undertake as an introduction. You will then create your own simple app, with user interaction, which addresses a real-world issue.
 
 --- task ---
