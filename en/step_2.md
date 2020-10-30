@@ -7,13 +7,13 @@ Open [Session 6](https://ncce.io/xBrv1w){:target="_blank"} and familiarise yours
 
 --- /task ---
 
-Session 6 sets the scene for sessions 7 and 8 which introduce new blocks in order to develop your app further using graphics, sound and user interaction throughevent-driven programming.
+Session 6 sets the scene for sessions 7 and 8 which introduce new blocks in order to develop your app further. You will use graphics, sound and develop user interaction through **event-driven programming**.
 
 --- task ---
 
 Now practise modifying and developing your skills in App Lab using [sessions 7 and 8](https://ncce.io/GLAm98){:target="_blank"} as a reference. 
 
-Continuing to program in App Lab will help you develop your subject-knowledge as well as your confidence in delivering live demonstrations in class. You will also have experienced the sessions from the pupils' perspective which will help when giving support in the sessions. 
+Continuing to program in App Lab will help you develop your subject-knowledge as well as your confidence in delivering live demonstrations in class. You will also have experienced the sessions from the pupils' perspective which will help when giving support to them in the sessions. 
 
 --- /task ---
 
