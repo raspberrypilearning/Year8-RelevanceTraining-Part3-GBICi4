@@ -1,10 +1,14 @@
 ## Task 5: Post-training webinar
 
-The 'Relevance' post-training webinar was based on the information in this task, Task 4. Even if you attended the post-training webinar, it is recommended that you work your way through the video recording and/or slide deck to remind yourself of the key questions, the FAQs (frequently asked questions), the feedback mechanisms, and how to engage with the trial community. If you would like to watch the recording, please see the video below:
+The 'Relevance' post-training webinar was based on the information in this task, Task 4. Even if you attended the post-training webinar, it is recommended that you work your way through the video recording and/or slide deck to remind yourself of the key questions, the FAQs (frequently asked questions), the feedback mechanisms, and how to engage with the trial community. 
 
-Click the following link to access the [Post-training Webinar event](NEED LINK){:target="_blank"} .
+--- task ---
+
+If you would like to watch the recording, please click the following link to access the [Post-training Webinar event](NEED LINK){:target="_blank"} .
 
 Click the following link to access the [slide deck](https://ncce.io/OCsl4I){:target="_blank"} .
+
+--- /task ---
 
 Click the green button (below right) to go to the next step.
 
