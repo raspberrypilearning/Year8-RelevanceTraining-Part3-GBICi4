@@ -13,3 +13,10 @@ Work through [Session 9](ncce.io/0Ajo8a), again using the Teacher Slides and Stu
 With the guidance of the Teacher Slides and Student Worksheets in [Session 10](https://ncce.io/oYe7gu) and [Session 11](https://ncce.io/QIk58r), now build your app. Leave yourself plenty of exploration and development time to realise your app ideas into a working app. You will share you app with your peers for feedback as well as share it  with the GBIC team and use it as an example when delivering the trial to the students.
 
 --- /task ---
+
+In the  next task you will share you app with other and gather feedback.
+
+Click the green button (below right) to go to the next step.
+
+You can go back to the [list of contents for this part (Part 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
+You can access the [menu for Part 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
