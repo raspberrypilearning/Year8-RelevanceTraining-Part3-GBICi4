@@ -8,7 +8,7 @@ Watch the [Sharing your App Lab app](https://www.youtube.com/watch?v=EWWXjOI8MNE
 
 --- task ---
 
-Briefly explore [Session 12](http://ncce.io/AbMR3v){:target="_blank"}  which focuses on sharing your prototype with as many users as possible. You may find it informative to complete page 2 of [Student Worksheets](https://ncce.io/wjuSbq){:target="_blank"} when carrying out your user testing.
+Briefly explore [Session 12](http://ncce.io/AbMR3v){:target="_blank"}  which focuses on sharing your prototype with as many users as possible. You may find it informative to complete page 2 of the [Student Worksheets](https://ncce.io/wjuSbq){:target="_blank"} when carrying out your user testing.
 
 --- /task ---
 
