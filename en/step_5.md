@@ -6,7 +6,7 @@ The 'Relevance' post-training webinar was based on the information in this task,
 
 If you would like to watch the recording, please click the following link to access the [Post-training Webinar event](NEED LINK){:target="_blank"} .
 
-Click the following link to access the [slide deck](https://ncce.io/OCsl4I){:target="_blank"} .
+Click the following link to access the [Completion Slide Deck](https://ncce.io/OCsl4I){:target="_blank"} .
 
 --- /task ---
 
