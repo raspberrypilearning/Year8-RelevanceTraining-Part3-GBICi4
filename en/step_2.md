@@ -13,7 +13,13 @@ Session 6 sets the scene for Sessions 7 and 8 which introduce new blocks in orde
 
 --- task ---
 
-Now practise modifying and developing your skills in App Lab using [Sessions 7](https://ncce.io/LZPVu7){:target="_blank"} and [Session 8](https://ncce.io/sWbgon){:target="_blank"} as a reference. Begin with the Teacher Slides and Student Worksheets in each lesson, using the Lesson Primer and Lesson Plan when required.
+Practise modifying and developing your skills in App Lab using [Sessions 7](https://ncce.io/LZPVu7){:target="_blank"} as a reference. Begin with the Teacher Slides and Student Worksheet, using the Lesson Primer and Lesson Plan when required. 
+
+--- /task ---
+
+--- task ---
+
+Now undertake [Session 8](https://ncce.io/sWbgon){:target="_blank"} which offers an additional [App Lab Worksheet](https://ncce.io/gyNQ8y){:target="_blank"} focusing on creating a survey using App Lab.
 
 Continuing to program in App Lab will help you develop your subject-knowledge as well as your confidence in delivering live demonstrations in class. You will also have experienced the sessions from the students' perspective which will help when giving students support in the sessions. 
 
