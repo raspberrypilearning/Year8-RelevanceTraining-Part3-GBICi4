@@ -1,5 +1,5 @@
 ## Task 2: Program in App Lab
-Now that you have set up App Lab logins for you and your students, you can familiarise yourself with Session 6, an introductory session on App Lab. It is the same session that the pupils themselves will undertake as an introduction. You will then create your own simple app, with user interaction, which addresses a real-world issue.
+Now that you have set up App Lab logins for you and your students, you can familiarise yourself with Session 6, an introductory session on App Lab as well as Sessions 7 and 8. They are the same sessions that the students themselves will undertake as an introduction.
 
 --- task ---
 
@@ -13,9 +13,9 @@ Session 6 sets the scene for Sessions 7 and 8 which introduce new blocks in orde
 
 --- task ---
 
-Now practise modifying and developing your skills in App Lab using [Sessions 7](https://ncce.io/LZPVu7){:target="_blank"}  and [Session 8](https://ncce.io/sWbgon){:target="_blank"} as a reference. Begin with the Teacher Slides and Student Worksheets using the Lesson Primer and Lesson Plan when required.
+Now practise modifying and developing your skills in App Lab using [Sessions 7](https://ncce.io/LZPVu7){:target="_blank"} and [Session 8](https://ncce.io/sWbgon){:target="_blank"} as a reference. Begin with the Teacher Slides and Student Worksheets in each lesson, using the Lesson Primer and Lesson Plan when required.
 
-Continuing to program in App Lab will help you develop your subject-knowledge as well as your confidence in delivering live demonstrations in class. You will also have experienced the sessions from the pupils' perspective which will help when giving support to them in the sessions. 
+Continuing to program in App Lab will help you develop your subject-knowledge as well as your confidence in delivering live demonstrations in class. You will also have experienced the sessions from the students' perspective which will help when giving students support in the sessions. 
 
 --- /task ---
 
