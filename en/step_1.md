@@ -13,7 +13,7 @@ Before you begin developing your skills in App Lab you need to check that you an
 
 --- task ---
 
-**Setting up App Lab Login:** follow the guide to setting up [App Lab Logins](https://ncce.io/PZZIqi){:target="_blank"} for you and your students.
+**Setting up App Lab Login:** follow the [Guide to setting up App Lab Logins](https://ncce.io/PZZIqi){:target="_blank"} for you and your students.
 
 --- /task ---
 
