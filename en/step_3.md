@@ -1,6 +1,6 @@
 ## Task 3: Build  your app
 
-In this task you will be developing your app design, a technical prototype, through **flowcharts** and **pseudocode** to help to think through what the prototype needs to do and to break the requirements down into manageable steps.
+In this task you will be developing your app design, a technical prototype, through **flowcharts** and **pseudocode** to help to think through what the prototype needs to do and to break the requirements down into manageable steps. You will then go on to create your own simple app, with user interaction, which addresses a real-world issue.
 
 --- task ---
 
