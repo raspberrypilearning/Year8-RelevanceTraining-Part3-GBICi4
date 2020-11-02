@@ -4,7 +4,7 @@ In this task you will be developing your app design, a technical prototype, thro
 
 --- task ---
 
-Work through [Session 9](https://ncce.io/0Ajo8a){:target="_blank"}, again using the Teacher Slides and Student Worksheets. Ensure you can reiterate the benefits of structuring the flow of user interaction in flowcharts and preempting which blocks are needed and in what sequence using pseudocode. Students often want to bypass the groundwork of flowcharts and pseudocode in order to get straight on to programming their app only to come across issues when programming.
+Work through [Session 9](https://ncce.io/0Ajo8a){:target="_blank"}, using the Teacher Slides, Students Worksheets and the [Flowcharts and Pseudocode Worksheet](https://ncce.io/EYide){:target="_blank"}. Ensure you can reiterate the benefits of structuring the flow of user interaction in flowcharts and preempting which blocks are needed and in what sequence using pseudocode. Students often want to bypass the groundwork of flowcharts and pseudocode in order to get straight on to programming their app only to come across issues when programming.
 
 --- /task ---
 
