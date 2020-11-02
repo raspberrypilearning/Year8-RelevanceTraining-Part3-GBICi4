@@ -3,7 +3,7 @@ Now that you have set up App Lab logins for you and your students, you can famil
 
 --- task ---
 
-Open [Session 6](https://ncce.io/xBrv1w){:target="_blank"} and familiarise yourself with the 'Lesson Primer' and 'Lesson Plan' first. Then, using the 'Teacher Slides' and [Getting Started with App Lab worksheet](https://ncce.io/zeQYMr), take yourself through the session. You will also find in the Session 6 folder the 'Guide to setting up App Lab Logins' which you were introduced to in the previous task. (For ease of reference, this document is also available in the main resource folder.) 
+Open [Session 6](https://ncce.io/xBrv1w){:target="_blank"} and familiarise yourself with the 'Lesson Primer' and 'Lesson Plan' first. Then, using the 'Teacher Slides' and [Getting Started with App Lab worksheet](https://ncce.io/zeQYMr)(https://ncce.io/PZZIqi){:target="_blank"}, take yourself through the session. You will also find in the Session 6 folder the 'Guide to setting up App Lab Logins' which you were introduced to in the previous task. (For ease of reference, this document is also available in the main resource folder.) 
 
 Session 6 introduces you to the AppLab interface, including some blocks.
 
