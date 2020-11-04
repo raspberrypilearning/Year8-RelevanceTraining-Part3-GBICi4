@@ -2,19 +2,13 @@
 
 --- task ---
 
-Watch the [Sharing your App Lab app](https://www.youtube.com/watch?v=EWWXjOI8MNE){:target="_blank"} video to find out how easy it is to share your app.
-
---- /task ---
-
---- task ---
-
 Briefly explore [Session 12](http://ncce.io/AbMR3v){:target="_blank"} which focuses on sharing your prototype with as many users as possible. You may find it informative to complete page 2 of the [Student Worksheets](https://ncce.io/wjuSbq){:target="_blank"} when carrying out your user testing.
 
 --- /task ---
 
 --- task ---
 
-Please share your app including your **name** and **school** to the Gender Balance in Computing research team at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). The projects will be used to promote the Relevance trial. We will seek your permission if we would like to use your project to promote the trial.
+Please share your app. Copy you app's URL and paste it in to an email messageas well as your **name** and **school** to the Gender Balance in Computing research team at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). The projects will be used to promote the Relevance trial. We will seek your permission if we would like to use your project to promote the trial.
 
 --- /task ---
 
