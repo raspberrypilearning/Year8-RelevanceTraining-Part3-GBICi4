@@ -7,7 +7,7 @@ Before you begin developing your skills in App Lab you need to check that you an
 
 --- task ---
 
-**Devices:** App Lab is an online tool which runs on desktop computers as well as tablets/iPad. Check that App Lab runs on each device which you are planning to use in the trial.
+**Devices:** App Lab is an online tool which runs on desktop computers but not tablets or iPads. Check that App Lab runs on each device which you are planning to use in the trial.
 
 --- /task ---
 
