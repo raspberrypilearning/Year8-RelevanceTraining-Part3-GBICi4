@@ -1,14 +1,14 @@
-## Task 2: What’s ScratchJr?
-You will familiarise yourself with ScratchJr and deepen your understanding of ScratchJr and the resources by completing the first lesson that the pupils themselves undertake.
+## Task 5: Post-training webinar
 
-The first task is to undertake [Lesson 1, Unit 1, Story-writing](https://drive.google.com/drive/folders/1b7wA-cY3q54rqUilU_Fd245pC95bfdfv?usp=sharing) (L1: What’s ScratchJr? Unit1_GBICi1b_KS1Storytelling). This lesson introduces you to both ScratchJr’s interface, including the blocks as well as set the scene for Unit 1 - introducing characters and structure in familiar songs. Lesson 1 will introduce you to the programming environment ScratchJr where you will create a simple computer program by moving a character.
+The 'Relevance' post-training webinar was based on the information in this task, Task 4. Even if you attended the post-training webinar, it is recommended that you work your way through the video recording and/or slide deck to remind yourself of the key questions, the FAQs (frequently asked questions), the feedback mechanisms, and how to engage with the trial community. 
 
-For this first task you will use two resources: the teacher-facing [Lesson Plan](http://ncce.io/uhZZcP) and the [Presentation Slides](http://ncce.io/cRWRfX) which are both in the Lesson 1, Unit 1 folder (again note that the Presentation Slides label the activities in the top right-hand corner to help you navigate the lesson).
+--- task ---
 
-**MAY NEED TO CHANGE THIS 
-Make a note of anything which you need to clarify. You can use the feedback form to ask questions to the trial community. Or get in touch with us if you have any queries at any time before, during or after the trial by emailing the Gender Research Mailbox on [genderresearch@raspberrypi.org](genderresearch@raspberrypi.org).**
+If you did not attend thep post-training webinar then now watch the recording. Please click the following link to access the [Post-training Webinar event](NEED LINK){:target="_blank"} and work your way though the accompaning [slide deck](https://ncce.io/OCsl4I){:target="_blank"} .
 
-Click the green button (below right) for the next step in this session.
+--- /task ---
 
-If you need to go back to the list of contents for this session (Session 2), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_GBICi1b). 
-If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+Click the green button (below right) to go to the next step.
+
+You can go back to the [list of contents for this part (Part 3) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
+You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).

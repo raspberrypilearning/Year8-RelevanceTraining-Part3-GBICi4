@@ -1,20 +1,24 @@
-## Overview
+## Task 3: Build  your app
 
-The first document you need to read is the Units Overview which provides essential information relating to the teaching approach Storytelling trial, including details on preparing for the Units.
+In this task you will be developing your app design, a technical prototype, through **flowcharts** and **pseudocode** to help to think through what the prototype needs to do and to break the requirements down into manageable steps. You will then go on to create your own simple app, with user interaction, which addresses a real-world issue.
 
-You can see that each lesson is set out with a brief description and the learning objectives and success criteria for that lesson. The overview also includes links to the relevant lesson plans and resources. 
+--- task ---
 
-You will note that some of the information in the Unit Overview, such as data collection, has been covered elsewhere in the training sessions. This document offers a useful place to go as a signpost and reminder of key considerations. The document includes:
-+ Introduction
-+ Resources
-+ Subject knowledge
-+ ScratchJr app
-+ Devices and live demonstration
-+ Survey
+Work through [Session 9](https://ncce.io/0Ajo8a){:target="_blank"}, using the Teacher Slides, Students Worksheets and the [Flowcharts and Pseudocode Worksheet](https://ncce.io/y0KsQI){:target="_blank"}. Ensure you can reiterate the benefits of structuring the flow of user interaction in flowcharts and preempting which blocks are needed and in what sequence using pseudocode. Students often want to bypass the groundwork of flowcharts and pseudocode in order to get straight on to programming their app only to come across issues when programming.
 
-![Modelling Unit Overview](images/ks1storytelling-UnitOverview.gif)
+--- /task ---
 
-Click the green button (below right) for the next step in this session.
+--- task ---
 
-If you need to go back to the list of contents for this session (Session 2), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_GBICi1b). 
-If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+With the guidance of the Teacher Slides and Student Worksheets in [Session 10](https://ncce.io/oYe7gu){:target="_blank"} and [Session 11](https://ncce.io/QIk58r){:target="_blank"}, now build your app. 
+
+Leave yourself plenty of exploration and development time to realise your app idea into a working app. You will share you app with your peers for feedback as well as share it with the GBIC team and use it as an example when delivering the trial to the students.
+
+--- /task ---
+
+In the  next task you will share you app with your peers in order to gather feedback.
+
+Click the green button (below right) to go to the next step.
+
+You can go back to the [list of contents for this part (Part 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
+You can access the [menu for Part 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).

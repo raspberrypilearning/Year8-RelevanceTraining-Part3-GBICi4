@@ -1,29 +1,37 @@
-## The resources
+## Task 2: Program in App Lab
+Now that you have set up App Lab logins for you and your students, you can familiarise yourself with Session 6, an introductory session on App Lab as well as Sessions 7 and 8. They are the same sessions that the students themselves will undertake as an introduction.
 
-The teaching resource folder includes:
-+ Units Overview (GoogleDoc)
-+ Unit 1, Story-writing (folder)
-+ Unit 2, Storytelling (folder)
-+ Pre-survey (Presentation slide)
-+ Post-survey (Presentation slide)
-+ Extra Activity Backgrounds (Presentation slide)
+--- task ---
 
-![Unit Overview on screen and scroll](images/ks1storytelling-AccessMainFolder.png){:width="400px"}
+Open [Session 6](https://ncce.io/xBrv1w){:target="_blank"} and familiarise yourself with the 'Lesson Primer' and 'Lesson Plan' first. Then, using the 'Teacher Slides' and [Getting Started with App Lab worksheet](https://ncce.io/zeQYMr){:target="_blank"}, take yourself through the session. You will also find in the Session 6 folder the 'Guide to setting up App Lab Logins' which you were introduced to in the previous task. (For ease of reference, this document is also available in the main resource folder.) 
 
-You will be using ScratchJr to teach key programming concepts to produce interactive animations. The resources for the 12-week trial are written for both the ScratchJr app and an emulator. Learners need not be familiar with programming at the start of the trial. Educators should be familiar with the ScratchJr Interface, Blocks, and Coding Area, as well as Characters. Detailed instructions for completing each task are provided in the lesson plans so that educators who are less familiar with ScratchJr are able to practice in advance when preparing for the lessons. Session 2 focuses on building up your expertise in SrcatchJr and your familiarity with the resources.
+Session 6 introduces you to the AppLab interface, including some blocks.
 
-You can see in the Units Overview that the first topic consists of six weeks of a unit for Story-writing. Each week gradually introduces learners to the ScratchJr environment and the blocks that can be used to construct stories.
+--- /task ---
 
-The second topic outlined in the Units Overview consists of six weeks of a unit for Digital Storytelling. The lessons form a journey that starts with exploring interactive animation tools. Over the course of the unit, learners will explore the programming concepts of sequencing, selection and repetition through the control of characters to produce a storyboard for a digital story.
+Session 6 sets the scene for Sessions 7 and 8 which introduce new blocks in order to develop your app further. You will use graphics, sound and develop user interaction through **event-driven programming**.
 
-![Lesson Folders on screen and rest cursor on each folder](images/ks1storytelling-LessonFolderAccess.gif)
+--- task ---
 
-You will find the lesson plans, slides and associated resources in separate folders for Unit 1 Story-writing and Unit 2: Digital Storytelling
-Within each of the unit folders, you will have subfolders for all of the individual lessons and their associated resources.
+Practise modifying and developing your skills in App Lab using [Sessions 7](https://ncce.io/LZPVu7){:target="_blank"} as a reference. Begin with the Teacher Slides and Student Worksheet, using the Lesson Primer and Lesson Plan when required. 
 
-Together, these will be all the resources you need to participate in the Teaching Approach trial.
+--- /task ---
 
-Click the green button (below right) for the next step in this session.
+--- task ---
 
-If you need to go back to the list of contents for this session (Session 2), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session2_GBICi1b). 
-If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+Now undertake [Session 8](https://ncce.io/sWbgon){:target="_blank"} which offers an additional [App Lab Worksheet](https://ncce.io/gyNQ8y){:target="_blank"} focusing on creating a survey using App Lab.
+
+Continuing to program in App Lab will help you develop your subject-knowledge as well as your confidence in delivering live demonstrations in class. You will also have experienced the sessions from the students' perspective which will help when giving students support in the sessions. 
+
+--- /task ---
+
+--- task ---
+
+Make a note of anything that you need to clarify. You can use the feedback form to ask questions to the trial community. You can also get in touch with us if you have any queries at any time before, during, or after the trial by emailing the Gender Balance in Computing research team at [genderresearch@raspberrypi.org](genderresearch@raspberrypi.org).
+
+--- /task ---
+
+Click the green button (below right) to go to the next step.
+
+You can go back to the [list of contents for this part (Part 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
+You can access the [menu for Part 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
