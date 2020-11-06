@@ -2,7 +2,7 @@
 
 --- task ---
 
-Briefly explore [Session 12](http://nncce.io/wD4mPl){:target="_blank"} which focuses on sharing your prototype with as many users as possible. You may find it informative to complete page 2 of the [Student Worksheets](https://ncce.io/wjuSbq){:target="_blank"} when carrying out your user testing.
+Briefly explore [Session 12](http://nncce.io/wD4mPl){:target="_blank"}, which focuses on sharing your prototype with as many users as possible. You may find it informative to complete page 2 of the [student worksheets](https://ncce.io/wjuSbq){:target="_blank"} when carrying out your user testing.
 
 --- /task ---
 
@@ -14,5 +14,5 @@ Please share your app. Copy you app's URL and paste it into an email messageas. 
 
 Click the green button (below right) to go to the next step.
 
-You can go back to the [list of contents for this part (Part 3) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
+You can go back to the [start of Part 3 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
 You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
