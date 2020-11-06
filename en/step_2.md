@@ -19,7 +19,7 @@ Practise modifying and developing your skills in App Lab using [Session 7](https
 
 --- task ---
 
-Now undertake [Session 8](https://ncce.io/sWbgon){:target="_blank"}, which offers an additional [App Lab worksheet](https://ncce.io/gyNQ8y){:target="_blank"} that focusses on creating a survey using App Lab.
+Now undertake [Session 8](https://ncce.io/sWbgon){:target="_blank"}, which offers an additional [App Lab worksheet](https://ncce.io/gyNQ8y){:target="_blank"} that focuses on creating a survey using App Lab.
 
 Continuing to program in App Lab will help you to develop your subject knowledge, as well as your confidence in delivering live demonstrations in class. You will also have experienced the sessions from the students' perspective, which will help when giving students support in the sessions. 
 
