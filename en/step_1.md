@@ -19,11 +19,11 @@ Before you begin developing your skills in App Lab, you need to check that you a
 
 --- task ---
 
-**Seating plan:** You will need to consider live demonstrations when organising pupils' seating. You should also consider the practicalities of group discussions when creating the seating plan. For all activities in these sessions, pupils will work independently, as well as sometimes getting into groups for discussion and idea development purposes.
+**Seating plan:** When creating the seating plan, you should consider the practicalities of live demonstrations and group discussions. For all activities in these sessions, pupils will work independently, as well as sometimes getting into groups for discussion and idea development purposes.
 
 --- /task ---
 
-Ideally, all demonstrations of programming should be done live, as there are real benefits for the learner. Demonstrations offer students the opportunity to experience how to navigate the App Lab interface and how to interact with it to select and interlock blocks. If live demonstrations are not practical, each session, where relevant, offers students a step-by-step guide. In the following two tasks, you will focus on completing a series of sessions on App Lab to build your expertise and confidence.
+Ideally, all demonstrations of programming should be done live, as there are real benefits for the learner. Demonstrations offer students the opportunity to experience how to navigate the App Lab interface and how to interact with it to select and interlock blocks. If live demonstrations are not practical, each session, where relevant, offers students a step-by-step guide. In the following two tasks, you will complete a series of sessions on App Lab to build your expertise and confidence.
 
 Click the green button (below right) to go to the next step.
 
