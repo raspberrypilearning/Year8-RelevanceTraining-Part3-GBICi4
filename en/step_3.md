@@ -12,7 +12,7 @@ Work through [Session 9](https://ncce.io/0Ajo8a){:target="_blank"}, using the le
 
 With the guidance of the lesson slides and student worksheets in [Session 10](https://ncce.io/oYe7gu){:target="_blank"} and [Session 11](https://ncce.io/QIk58r){:target="_blank"}, now build your app.
 
-Leave yourself plenty of exploration and development time to realise your app idea into a working app. You will share your app with your peers for feedback, as well as sharing it with the GBIC team and using it as an example when delivering the trial to students.
+Leave yourself plenty of exploration and development time to realise your app idea into a working app. In the next step, you will share your app with your peers for feedback, as well as sharing it with the Gender Balance in Computing research team. You will also use your app as an example when delivering the trial to students.
 
 --- /task ---
 
