@@ -3,17 +3,17 @@ Now that you have set up App Lab logins for you and your students, you can famil
 
 --- task ---
 
-Open [Session 6](https://ncce.io/xBrv1w){:target="_blank"} and familiarise yourself with the lesson primer and lesson plan first. Then, using the lesson slides and ['Getting Started with App Lab' worksheet](https://ncce.io/zeQYMr){:target="_blank"}, take yourself through the session. In the Session 6 folder, you will also find the 'Guide to setting up App Lab logins', which you were introduced to in the previous task. (For ease of reference, this document is also available in the main resource folder.) 
+Open the [Session 6](https://ncce.io/xBrv1w){:target="_blank"} folder and familiarise yourself with the lesson primer and lesson plan first. Then, using the teacher slides and ['Getting Started with App Lab' worksheet](https://ncce.io/zeQYMr){:target="_blank"}, work through the session. In the Session 6 folder, you will also find the 'Guide to setting up App Lab logins', which you were introduced to in the previous task. (For ease of reference, this document is also available in the main resource folder.) 
 
 Session 6 introduces you to the App Lab interface, including some blocks.
 
 --- /task ---
 
-Session 6 sets the scene for Sessions 7 and 8, which introduce new blocks in order to develop your app further. You will use graphics, sound and develop user interaction through **event-driven programming**.
+Session 6 sets the scene for Sessions 7 and 8, which introduce new blocks to help you to develop your app further. You will use graphics and sound, and develop user interaction through **event-driven programming**.
 
 --- task ---
 
-Practise modifying and developing your skills in App Lab using [Session 7](https://ncce.io/LZPVu7){:target="_blank"} as a reference. Begin with the lesson slides and student worksheet, using the lesson primer and lesson plan when required. 
+Practise and develop your skills in App Lab using [Session 7](https://ncce.io/LZPVu7){:target="_blank"} as a reference. Begin with the lesson slides and student worksheet, using the lesson primer and lesson plan when required. 
 
 --- /task ---
 
