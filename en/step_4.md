@@ -2,13 +2,13 @@
 
 --- task ---
 
-Briefly explore [Session 12](http://nncce.io/wD4mPl){:target="_blank"}, which focuses on sharing your prototype with as many users as possible. You may find it informative to complete page 2 of the [student worksheets](https://ncce.io/wjuSbq){:target="_blank"} when carrying out your user testing.
+Briefly explore [Session 12](http://ncce.io/wD4mPl){:target="_blank"}, which focuses on sharing your prototype with as many users as possible. You may find it informative to complete page 2 of the [student worksheets](https://ncce.io/wjuSbq){:target="_blank"} when carrying out your user testing.
 
 --- /task ---
 
 --- task ---
 
-Please share your app. Copy you app's URL and paste it into an email messageas. Please also include your **full name** and **school** to the Gender Balance in Computing research team at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org). The projects will be used to promote the Relevance trial. We will seek your permission if we would like to use your project to promote the trial.
+Please share your app with the Gender Balance in Computing research team. To do this, please send an email to [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org) including your app's URL and your **full name** and **school**. The projects will be used to promote the Relevance trial. We will seek your permission if we would like to use your project to promote the trial.
 
 --- /task ---
 
