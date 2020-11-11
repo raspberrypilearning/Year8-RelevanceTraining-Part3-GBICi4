@@ -1,5 +1,5 @@
 ## Part 3: Year 8 'Relevance' training – Investigating App Lab
-Part 3 introduces you to the remainder of the Relevance resources, which focus on App Lab. There are five tasks in this part. In the second and third tasks, you will focus on completing a series of sessions on App Lab that the pupils themselves will undertake.
+Part 3 introduces you to the remainder of the Relevance resources, which focus on App Lab. There are five tasks in this part. In the second and third tasks, you will focus on completing a series of sessions on App Lab that the students themselves will undertake.
 
 ## Task 1: Technical setup for the trial
 
@@ -19,7 +19,7 @@ Before you begin developing your skills in App Lab, you need to check that you a
 
 --- task ---
 
-**Seating plan:** When creating the seating plan, you should consider the practicalities of live demonstrations and group discussions. For all activities in these sessions, pupils will work independently, as well as sometimes getting into groups for discussion and idea development purposes.
+**Seating plan:** When creating the seating plan, you should consider the practicalities of live demonstrations and group discussions. For all activities in these sessions, students will work independently, as well as sometimes getting into groups for discussion and idea development purposes.
 
 --- /task ---
 
