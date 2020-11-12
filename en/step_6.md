@@ -2,7 +2,7 @@
 
 --- task ---
 
-Please complete the Year 8 ['Relevance' trial training survey](https://ncce.io/7kP0UL){:target="_blank"} to confirm that you have finished the course and provide some feedback.
+If you have not done so already, please complete the Year 8 ['Relevance' trial training survey](https://ncce.io/8qJtQB){:target="_blank"} to confirm that you have finished the course and provide some feedback.
 
 --- /task ---
 
@@ -10,7 +10,7 @@ You have now completed the course. Thank you, and well done!
 
 You can use the feedback form to ask questions to the trial community. You can also get in touch with us by email if you have any queries at any time before, during, or after the trial via [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
 
-You can go back to the [list of contents for this part (Part 3) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
+You can go back to the [start of Part 3 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
 
 You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
 
