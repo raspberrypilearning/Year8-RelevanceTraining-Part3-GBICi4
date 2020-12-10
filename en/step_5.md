@@ -1,6 +1,8 @@
 ## Task 5: Post-training webinar
 
-The 'Relevance' post-training webinar was based on the information in Task 4. Even if you attended the post-training webinar, it is recommended that you work your way through the video recording and/or slide deck to remind yourself of the key questions, the FAQs (frequently asked questions), the feedback mechanisms, and how to engage with the trial community. 
+The information in this task formed the basis of the 'Relevance' post-training webinar. Even if you attended the post-training webinar, it is recommended that you work your way through the video recording and/or slide deck to remind yourself of the key questions, the FAQs (frequently asked questions), the feedback mechanisms, and how to engage with the trial community. 
+
+Once you have finished, don't forget to complete the survey in the next step to let us know you have completed the course.
 
 --- task ---
 
