@@ -27,7 +27,7 @@ Continuing to program in App Lab will help you to develop your subject knowledge
 
 --- task ---
 
-Make a note of anything that you need to clarify. You can use the feedback form to ask questions to the trial community. You can also get in touch with us if you have any queries at any time before, during, or after the trial by emailing the Gender Balance in Computing research team at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
+Make a note of anything that you need to clarify. You can get in touch with us if you have any queries at any time before, during, or after the project by emailing the Gender Balance in Computing research team at [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
 
 --- /task ---
 
