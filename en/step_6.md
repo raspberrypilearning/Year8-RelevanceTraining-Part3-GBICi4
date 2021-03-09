@@ -1,14 +1,14 @@
-## Task 6: Completion survey
+## Task 5: Completion survey
 
 --- task ---
 
-If you have not done so already, please complete the Year 8 ['Relevance' trial training survey](https://ncce.io/8qJtQB){:target="_blank"} to confirm that you have finished the course and provide some feedback.
+If you have not done so already, please complete the Year 8 ['Relevance' project training survey](https://ncce.io/8qJtQB){:target="_blank"} to confirm that you have finished the course and provide some feedback.
 
 --- /task ---
 
 You have now completed the course. Thank you, and well done!
 
-You can use the feedback form to ask questions to the trial community. You can also get in touch with us by email if you have any queries at any time before, during, or after the trial via [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
+You can get in touch with us by email if you have any queries at any time before, during, or after the project via [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
 
 You can go back to the [start of Part 3 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
 
