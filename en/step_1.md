@@ -1,13 +1,13 @@
 ## Part 3: Year 8 'Relevance' training – Investigating App Lab
 Part 3 introduces you to the remainder of the Relevance resources, which focus on App Lab. There are five tasks in this part. In the second and third tasks, you will focus on completing a series of sessions on App Lab that the students themselves will undertake.
 
-## Task 1: Technical setup for the trial
+## Task 1: Technical setup for the project
 
-Before you begin developing your skills in App Lab, you need to check that you and your classroom are prepared for the trial. This task, Task 1, aims to ensure that the technical setup is arranged well in advance of delivering the lessons, as you may need to bring in expertise, seek permissions, or source additional hardware. 
+Before you begin developing your skills in App Lab, you need to check that you and your classroom are prepared for the project. This task, Task 1, aims to ensure that the technical setup is arranged well in advance of delivering the lessons, as you may need to bring in expertise, seek permissions, or source additional hardware. 
 
 --- task ---
 
-**Devices:** App Lab is an online tool that runs on desktop computers, but not on tablets or iPad. Check that App Lab runs on each device that you are planning to use in the trial.
+**Devices:** App Lab is an online tool that runs on desktop computers, but not on tablets or iPad. Check that App Lab runs on each device that you are planning to use in the project.
 
 --- /task ---
 
