@@ -8,7 +8,7 @@ Briefly explore [Session 12](http://ncce.io/wD4mPl){:target="_blank"}, which foc
 
 --- task ---
 
-Please share your app with the Gender Balance in Computing research team. To do this, please send an email to [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org) including your app's URL and your **full name** and **school**. The projects will be used to promote the Relevance trial. We will seek your permission if we would like to use your project to promote the trial.
+Please share your app with the Gender Balance in Computing research team. To do this, please send an email to [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org) including your app's URL and your **full name** and **school**. The projects will be used to promote the Relevance project. We will seek your permission if we would like to use your project to promote the project.
 
 --- /task ---
 
