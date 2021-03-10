@@ -19,7 +19,7 @@ Before you begin developing your skills in App Lab, you need to check that you a
 
 --- task ---
 
-**Seating plan:** When creating the seating plan, you should consider the practicalities of live demonstrations and group discussions. For all activities in these sessions, students will work independently, as well as sometimes getting into groups for discussion and idea development purposes.
+**Seating plan:** When creating the seating plan, you should consider the practicalities of live demonstrations and group discussions. For all activities in these sessions, students will work independently, as well as sometimes discussion in groups for idea development purposes.
 
 --- /task ---
 
