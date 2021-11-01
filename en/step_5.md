@@ -2,7 +2,7 @@
 
 --- task ---
 
-If you have not done so already, please complete the Year 8 ['Relevance' project training survey](https://ncce.io/8qJtQB){:target="_blank"} to confirm that you have finished the course and provide some feedback.
+If you have not done so already, please complete the Year 8 ['Relevance' project training survey](http://ncce.io/relevance-postT){:target="_blank"} to confirm that you have finished the course and provide some feedback.
 
 --- /task ---
 
