@@ -3,23 +3,23 @@ Now that you have set up App Lab logins for you and your students, you can famil
 
 --- task ---
 
-Open the [Session 6](https://ncce.io/xBrv1w){:target="_blank"} folder and familiarise yourself with the lesson primer and lesson plan first. Then, using the teacher slides and ['Getting started with App Lab' worksheet](https://ncce.io/zeQYMr){:target="_blank"}, work through the session. In the Session 6 folder, you will also find the 'Guide to setting up App Lab logins', which you were introduced to in the previous task. (For ease of reference, this document is also available in the main resource folder.) 
+Open the [Session 2](https://drive.google.com/drive/folders/1JqyWk1aePcGOSXoJYZZsv3MjtjUlo0pG?usp=sharing){:target="_blank"} folder and familiarise yourself with the lesson primer and lesson plan first. Then, using the teacher slides and ['Getting started with App Lab' worksheet](https://docs.google.com/document/d/1IwYU2oRs0Ff5cjE9ZdxAok4IMWv53R4px5M2NC0x3x8){:target="_blank"}, work through the session. In the Session 2 folder, you will also find the 'Guide to setting up App Lab logins', which you were introduced to in the previous task. (For ease of reference, this document is also available in the main resource folder.) 
 
-Session 6 introduces you to the App Lab interface, including some blocks.
-
---- /task ---
-
-Session 6 sets the scene for Sessions 7 and 8, which introduce new blocks to help you to develop your app further. You will use graphics and sound, and develop user interaction through **event-driven programming**.
-
---- task ---
-
-Practise and develop your skills in App Lab using [Session 7](https://ncce.io/LZPVu7){:target="_blank"} as a reference. Begin with the teacher slides and student worksheet, using the lesson primer and lesson plan when required. 
+Session 2 introduces you to the App Lab interface, including some blocks.
 
 --- /task ---
 
+Session 2 sets the scene for Sessions 3 and 4, which introduce new blocks to help you to develop your app further. You will use graphics and sound, and develop user interaction through **event-driven programming**.
+
 --- task ---
 
-Now undertake [Session 8](https://ncce.io/sWbgon){:target="_blank"}, which offers an additional [App Lab worksheet](https://ncce.io/gyNQ8y){:target="_blank"} that focuses on creating a survey using App Lab.
+Practise and develop your skills in App Lab using [Session 3](https://drive.google.com/drive/folders/1OYfIdz55tQuGu7ExJyy-X_z7XAdsjpwA?usp=sharing){:target="_blank"} as a reference. Begin with the teacher slides and student worksheet, using the lesson primer and lesson plan when required. 
+
+--- /task ---
+
+--- task ---
+
+Now undertake [Session 4](https://drive.google.com/drive/folders/1OYfIdz55tQuGu7ExJyy-X_z7XAdsjpwA?usp=sharing){:target="_blank"}, which offers an additional [App Lab worksheet](https://docs.google.com/presentation/d/11SAvo8KPx9Yt6gX_4DvEgrjQl07W4JrKhjK4H92ex-U){:target="_blank"} that focuses on creating a survey using App Lab.
 
 Continuing to program in App Lab will help you to develop your subject knowledge, as well as your confidence in delivering live demonstrations in class. You will also have experienced the sessions from the students' perspective, which will help when giving students support in the sessions. 
 
