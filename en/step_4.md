@@ -2,7 +2,7 @@
 
 --- task ---
 
-Briefly explore [Session 12](http://ncce.io/wD4mPl){:target="_blank"}, which focuses on sharing your prototype with as many users as possible. You may find it informative to complete page 2 of the [student worksheets](https://ncce.io/wjuSbq){:target="_blank"} when carrying out your user testing.
+Briefly explore [Session 13](https://drive.google.com/drive/folders/1YhKTSvOIynNvkOImbcqkS_mzrRNTt0FN?usp=sharing){:target="_blank"}, which focuses on sharing your prototype with as many users as possible. You may find it informative to complete page 2 of the [student worksheets](https://docs.google.com/presentation/d/16Ye-s0FF0y4_jOBQE27k2pTQLz1hRnrDeYZjf0aWUzY/edit#slide=id.ga40b2dba04_1_0){:target="_blank"} when carrying out your user testing.
 
 --- /task ---
 
