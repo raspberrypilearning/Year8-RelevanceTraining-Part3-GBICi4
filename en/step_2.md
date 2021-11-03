@@ -1,9 +1,9 @@
 ## Task 2: Program in App Lab
-Now that you have set up App Lab logins for you and your students, you can familiarise yourself with Session 6, an introductory session on App Lab, as well as Sessions 7 and 8. They are the same sessions that the students will undertake as an introduction.
+Now that you have set up App Lab logins for you and your students, you can familiarise yourself with Session 2, an introductory session on App Lab, as well as Sessions 3 and 4. They are the same sessions that the students will undertake as an introduction.
 
 --- task ---
 
-Open the [Session 2](https://drive.google.com/drive/folders/1JqyWk1aePcGOSXoJYZZsv3MjtjUlo0pG?usp=sharing){:target="_blank"} folder and familiarise yourself with the lesson primer and lesson plan first. Then, using the teacher slides and ['Getting started with App Lab' worksheet](https://docs.google.com/document/d/1IwYU2oRs0Ff5cjE9ZdxAok4IMWv53R4px5M2NC0x3x8){:target="_blank"}, work through the session. In the Session 2 folder, you will also find the 'Guide to setting up App Lab logins', which you were introduced to in the previous task. (For ease of reference, this document is also available in the main resource folder.) 
+Open the [Session 2](https://drive.google.com/drive/folders/1-B1Prl0dV6d50cqEP-HtlP8zrITDqKcL?usp=sharing){:target="_blank"} folder and familiarise yourself with the lesson primer and lesson plan first. Then, using the teacher slides and ['Getting started with App Lab' worksheet](https://docs.google.com/document/d/1IwYU2oRs0Ff5cjE9ZdxAok4IMWv53R4px5M2NC0x3x8){:target="_blank"}, work through the session. In the Session 2 folder, you will also find the 'Guide to setting up App Lab logins', which you were introduced to in the previous task. (For ease of reference, this document is also available in the main resource folder.) 
 
 Session 2 introduces you to the App Lab interface, including some blocks.
 
