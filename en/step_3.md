@@ -1,18 +1,14 @@
 ## Task 3: Build your app
 
-In this task, you will develop your app design, a technical prototype, through **flowcharts** and **pseudocode** to help you to think through what the prototype needs to do and to break the requirements down into manageable steps. You will then go on to create your own simple app, with user interaction, which addresses a real-world problem.
+In this task, you will create your own simple app, with user interaction, which addresses a real-world problem.
 
 --- task ---
 
-Work through [Session 9](https://ncce.io/0Ajo8a){:target="_blank"}, using the teacher slides, student worksheets, and the ['Flowcharts and pseudocode' worksheet](https://ncce.io/y0KsQI){:target="_blank"}. Ensure that you can reiterate the benefits of structuring the flow of user interaction in flowcharts and preempting which blocks are needed and in what sequence using pseudocode — students often want to bypass the groundwork of flowcharts and pseudocode in order to get straight on to programming their app, only to come across issues when programming.
+With the guidance of the teacher slides and student worksheets in [Session 10](https://drive.google.com/drive/folders/107u8trkuSO_QXWtNrEoCAmp4Ppkc2Jvl?usp=sharing){:target="_blank"}, now build your app.
 
---- /task ---
+Leave yourself plenty of exploration and development time to realise your app idea into a working app. Note that the optional Session 11 offers additional time to build the apps.
 
---- task ---
-
-With the guidance of the teacher slides and student worksheets in [Session 10](https://ncce.io/oYe7gu){:target="_blank"} and [Session 11](https://ncce.io/QIk58r){:target="_blank"}, now build your app.
-
-Leave yourself plenty of exploration and development time to realise your app idea into a working app. In the next step, you will share your app with your peers for feedback, as well as sharing it with the Gender Balance in Computing research team. You will also use your app as an example when delivering the trial to students.
+In the next step, you will share your app with your peers for feedback, as well as sharing it with the Gender Balance in Computing research team. You will also use your app as an example when delivering the trial to students.
 
 --- /task ---
 
