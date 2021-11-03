@@ -13,13 +13,13 @@ Before you begin developing your skills in App Lab, you need to check that you a
 
 --- task ---
 
-**Setting up App Lab logins:** Follow the [Guide to setting up App Lab logins](https://ncce.io/PZZIqi){:target="_blank"} for you and your students.
+**Setting up App Lab logins:** Follow the [Guide to setting up App Lab logins](https://docs.google.com/document/d/16kGy9bQcxId-_Ean0yE-pMG4569MvLk0Ul-p3gGJYJ4){:target="_blank"} for you and your students.
 
 --- /task ---
 
 --- task ---
 
-**Seating plan:** When creating the seating plan, you should consider the practicalities of live demonstrations and group discussions. For all activities in these sessions, students will work independently, as well as sometimes getting into groups for discussion and idea development purposes.
+**Seating plan:** When creating the seating plan, you should consider the practicalities of live demonstrations and group discussions. For all activities in these sessions, students will work in teams, getting into groups for discussion and idea development purposes.
 
 --- /task ---
 
