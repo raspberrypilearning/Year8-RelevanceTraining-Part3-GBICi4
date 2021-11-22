@@ -2,7 +2,7 @@
 
 --- task ---
 
-If you have not done so already, please complete the Year 8 ['Relevance' trial training survey](https://ncce.io/8qJtQB){:target="_blank"} to confirm that you have finished the course and provide some feedback. This is required so that we can reimburse your school for supply cover.
+If you have not done so already, please complete the Year 8 ['Relevance' trial training survey](https://form.raspberrypi.org/f/relevance-training){:target="_blank"} to confirm that you have finished the course and provide some feedback. This is required so that we can reimburse your school for supply cover.
 
 --- /task ---
 
@@ -14,4 +14,4 @@ You can go back to the [start of Part 3 here](https://projects.raspberrypi.org/e
 
 You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
 
-**Note: Please do not click the green 'What's next?' button (below right) as this link is not relevant to this training course.**
+**Note: Please do not click the green 'What's next?' button (below right), as this link is not relevant to this training course.**
