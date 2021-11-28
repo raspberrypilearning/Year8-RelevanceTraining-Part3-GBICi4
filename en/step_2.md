@@ -19,7 +19,7 @@ Practise and develop your skills in App Lab using [Session 3](https://drive.goog
 
 --- task ---
 
-Now undertake [Session 4](https://drive.google.com/drive/folders/1079fGKPlU6PiyivyuYidvIATHTzWWp2G?usp=sharing){:target="_blank"}, which offers an additional [App Lab worksheet](https://docs.google.com/presentation/d/11SAvo8KPx9Yt6gX_4DvEgrjQl07W4JrKhjK4H92ex-U){:target="_blank"} that focuses on creating a survey using App Lab.
+Now undertake [Session 4](https://drive.google.com/drive/folders/1079fGKPlU6PiyivyuYidvIATHTzWWp2G?usp=sharing){:target="_blank"}, which includes an additional [App Lab worksheet](https://docs.google.com/presentation/d/11SAvo8KPx9Yt6gX_4DvEgrjQl07W4JrKhjK4H92ex-U){:target="_blank"} that focuses on creating a survey using App Lab.
 
 Continuing to program in App Lab will help you to develop your subject knowledge, as well as your confidence in delivering live demonstrations in class. You will also have experienced the sessions from the students' perspective, which will help when giving students support in the sessions. 
 
@@ -31,7 +31,7 @@ Make a note of anything that you need to clarify. You can use the feedback form 
 
 --- /task ---
 
-Click the green button (below right) to go to the next step.
+Click the green button (below right) to go to the next step in Part 3.
 
 You can go back to the [start of Part 3 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
 
