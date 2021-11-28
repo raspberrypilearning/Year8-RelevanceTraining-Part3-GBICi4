@@ -1,4 +1,4 @@
-## Part 3: Year 8 'Relevance' training – Investigating App Lab
+## Part 3: 'Relevance' training – Investigating App Lab
 Part 3 introduces you to the remainder of the Relevance resources, which focus on App Lab. There are five tasks in this part. In the second and third tasks, you will focus on completing a series of sessions on App Lab that the students themselves will undertake.
 
 ## Task 1: Technical setup for the trial
