@@ -2,11 +2,11 @@
 
 --- task ---
 
-If you have not done so already, please complete the Year 8 ['Relevance' trial training survey](https://form.raspberrypi.org/f/relevance-training){:target="_blank"} to confirm that you have finished the course and provide some feedback. This is required so that we can reimburse your school for supply cover.
+If you have not done so already, please complete the Year 8 ['Relevance' trial training survey](https://form.raspberrypi.org/f/relevance-training){:target="_blank"} to confirm that you have finished the training course and provide some feedback. This is required so that we can reimburse your school for supply cover.
 
 --- /task ---
 
-You have now completed the course. Thank you, and well done!
+You have now completed the training course. Thank you, and well done!
 
 You can get in touch with us by email if you have any queries at any time before, during, or after the trial via [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
 
