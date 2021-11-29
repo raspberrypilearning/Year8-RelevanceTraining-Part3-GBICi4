@@ -1,4 +1,4 @@
-## Part 3: 'Relevance' training – Investigating App Lab
+## Part 3: Year 8 'Relevance' training – Investigating App Lab
 Part 3 of this course introduces you to the remainder of the session resources, which focus on App Lab. There are five tasks in this part. In the second and third tasks, you will focus on completing a series of sessions on App Lab that the students themselves will undertake.
 
 ## Task 1: Technical setup for the trial
@@ -23,7 +23,7 @@ Before you begin developing your skills in App Lab, you need to check that you a
 
 --- /task ---
 
-Ideally, all demonstrations of programming should be done live, as there are real benefits for the students. Demonstrations offer students the opportunity to experience how to navigate the App Lab interface and how to interact with it to select and interlock blocks. If live demonstrations are not practical, each session, where relevant, offers students a step-by-step guide. In the next two tasks, you will complete a series of sessions on App Lab to build your expertise and confidence.
+Ideally, all demonstrations of programming should be done live, as there are real benefits for students. Demonstrations offer students the opportunity to experience how to navigate the App Lab interface and how to interact with it to select and interlock blocks. If live demonstrations are not practical, each session, where relevant, offers students a step-by-step guide. In the next two tasks, you will complete a series of sessions on App Lab to build your expertise and confidence.
 
 Click the green button (below right) to go to the next step.
 
