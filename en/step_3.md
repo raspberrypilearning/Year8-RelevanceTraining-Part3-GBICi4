@@ -12,8 +12,6 @@ In the next step, you will share your app with your peers for feedback, as well 
 
 --- /task ---
 
-In the next task, you will share your app with your peers in order to gain feedback.
-
 Click the green button (below right) to go to the next step.
 
 You can go back to the [start of Part 3 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4). 
