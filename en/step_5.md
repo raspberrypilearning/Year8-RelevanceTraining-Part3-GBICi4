@@ -2,7 +2,7 @@
 
 --- task ---
 
-If you have not done so already, please complete the Year 8 ['Relevance' trial training survey](https://form.raspberrypi.org/f/relevance-training){:target="_blank"} to confirm that you have finished the training course and provide some feedback. This is required so that we can reimburse your school for supply cover.
+If you have not done so already, please complete the Year 8 ['Relevance' training completion survey](https://form.raspberrypi.org/f/relevance-training){:target="_blank"} to confirm that you have finished the training course and provide some feedback. This is required so that we can reimburse your school for supply cover.
 
 --- /task ---
 
