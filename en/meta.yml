@@ -1,13 +1,17 @@
-title: "Part 3: Year 8 'Relevance' training – Investigating App Lab"
+---
+title: 'Part 3: Year 8 ''Relevance'' training – Investigating App Lab'
 hero_image: images/banner2.png
-description: Part 3 of the online training course introduces teachers to building their app idea using App Lab through a series of tasks
+description: Part 3 of the online training course introduces teachers to building
+  their app idea using App Lab through a series of tasks
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-09-08"
+last_tested: '2020-09-08'
 steps:
-  - title: "Task 1: Technical setup for trial"
-  - title: "Task 2: Program in App Lab"
-  - title: "Task 3: Build your app"
-  - title: "Task 4: User testing"
-  - title: "Task 5: Completion survey"
+- title: 'Task 1: Technical setup for trial'
+  completion: engaged
+- title: 'Task 2: Program in App Lab'
+- title: 'Task 3: Build your app'
+- title: 'Task 4: User testing'
+  completion: internal
+- title: 'Task 5: Completion survey'
